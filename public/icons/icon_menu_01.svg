@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 48">
+  <defs>
+    <style>.cls-1{fill:#255083;}</style>
+  </defs>
+  <title>icon_menu_01</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Livello_1" data-name="Livello 1">
+      <rect class="cls-1" x="15.33" y="-15.33" width="5.34" height="36" transform="translate(15.33 20.67) rotate(-90)"/>
+      <rect class="cls-1" x="15.33" y="-4.66" width="5.34" height="36" transform="translate(4.66 31.34) rotate(-90)"/>
+      <rect class="cls-1" x="15.33" y="6.01" width="5.34" height="36" transform="translate(-6.01 42.01) rotate(-90)"/>
+      <path class="cls-1" d="M6.71,47.93V43.48L5.37,45.75l-1.48-.08-1.34-2.2v4.46H.24V38.56H2.52l2.12,4.13,2.12-4.13H9v9.38Z"/>
+      <path class="cls-1" d="M10.93,47.93V38.56h6.4v2.05H13.24v1.57h3.49v2.05H13.24v1.66h4.09v2.05Z"/>
+      <path class="cls-1" d="M24.3,47.93l-3-4.71v4.71H19V38.56h2l3,4.71V38.56h2.31v9.38Z"/>
+      <path class="cls-1" d="M31.62,48a3.63,3.63,0,0,1-2.53-.93,3.13,3.13,0,0,1-1-2.44V38.56h2.31v6a1.46,1.46,0,0,0,.32,1,1.17,1.17,0,0,0,.92.36,1.23,1.23,0,0,0,.93-.36,1.4,1.4,0,0,0,.34-1v-6h2.31v6.08a3.12,3.12,0,0,1-1,2.43A3.67,3.67,0,0,1,31.62,48Z"/>
+  </g>
+</g>
+</svg>

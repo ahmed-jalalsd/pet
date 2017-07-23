@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450.21 8.54">
+  <defs><style>.cls-1{fill:#255083;}.cls-2,.cls-3{fill:none;stroke:#255083;stroke-miterlimit:10;}.cls-2{stroke-width:0.18px;}.cls-3{stroke-width:0.59px;stroke-dasharray:0.78 3.13;}</style>
+</defs>
+<title>footer_line</title>
+<g id="Livello_2" data-name="Livello 2"><g id="Layout">
+  <polygon class="cls-1" points="170.69 4.27 164.58 7.95 158.46 4.27 164.58 0.59 170.69 4.27"/>
+  <polyline class="cls-2" points="161.76 8.46 154.78 4.27 161.76 0.08"/>
+  <polyline class="cls-2" points="167.39 0.08 174.37 4.27 167.39 8.46"/>
+  <line class="cls-3" y1="4.14" x2="152.92" y2="4.14"/>
+  <line class="cls-3" x1="244.65" y1="4.4" x2="176.01" y2="4.4"/>
+  <polygon class="cls-1" points="263.7 4.27 257.58 7.95 251.46 4.27 257.58 0.59 263.7 4.27"/>
+  <polyline class="cls-2" points="254.76 8.46 247.79 4.27 254.77 0.08"/>
+  <polyline class="cls-2" points="260.39 0.08 267.37 4.27 260.39 8.46"/>
+  <line class="cls-3" x1="450.21" y1="4.4" x2="269.02" y2="4.4"/>
+</g>
+</g>
+</svg>

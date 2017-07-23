@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.03 29.02">
+  <defs>
+    <style>.cls-square-1,.cls-square-2{fill:none;stroke:#255083;stroke-miterlimit:10;}.cls-square-1{stroke-width:0.24px;}.cls-square-2{stroke-width:0.72px;}</style>
+  </defs>
+  <title>icon_object_01</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layout"><rect class="cls-square-1" x="0.36" y="0.36" width="28.3" height="28.3" transform="translate(29.03 29.02) rotate(179.98)"/>
+      <polyline class="cls-square-2" points="28.66 8.49 28.67 28.66 8.5 28.66"/>
+      <polyline class="cls-square-2" points="0.37 20.53 0.36 0.37 20.52 0.36"/>
+      <line class="cls-square-1" x1="7.67" y1="14.51" x2="21.36" y2="14.51"/>
+      <line class="cls-square-1" x1="14.52" y1="21.1" x2="14.51" y2="7.92"/>
+    </g>
+  </g>
+</svg>

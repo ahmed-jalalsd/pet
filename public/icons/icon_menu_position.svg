@@ -1,0 +1,16 @@
+<?xml-stylesheet type="text/css" href="/css/main.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52.28 30.1"><defs>
+  <style>
+    .cls-1{fill:#fff;}
+    .cls-2{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:2.5px;}
+  </style>
+</defs><title>icon_menu_position</title>
+<g id="Layer_2" data-name="Layer 2">
+  <g id="Layout">
+    <rect class="cls-1" x="21.83" y="5.83" width="18.45" height="18.45" transform="translate(-1.55 26.37) rotate(-45)"/>
+    <polyline class="cls-2" points="25.05 29.93 10.18 15.05 25.05 0.18"/>
+    <polyline class="cls-2" points="37.06 0.18 51.93 15.05 37.06 29.93"/>
+    <polyline class="cls-2" points="0.18 12.05 3.18 15.05 0.18 18.05"/>
+  </g>
+</g>
+</svg>

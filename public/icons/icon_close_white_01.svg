@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42.1 42.81">
+  <defs>
+    <style>.cls-1,.cls-2{fill:none;stroke:#fff;stroke-miterlimit:10;}.cls-1{stroke-width:0.25px;}.cls-2{stroke-width:0.75px;}</style>
+  </defs>
+  <title>icon_close_white_01</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layout">
+      <rect class="cls-1" x="6.29" y="6.64" width="29.52" height="29.52" transform="translate(20.8 51.43) rotate(-135)"/>
+      <polyline class="cls-2" points="35.93 27.41 21.05 42.28 6.18 27.41"/>
+      <polyline class="cls-2" points="6.18 15.4 21.05 0.53 35.93 15.4"/>
+      <line class="cls-1" x1="16.01" y1="16.36" x2="26.1" y2="26.45"/>
+      <line class="cls-1" x1="16.19" y1="26.27" x2="25.91" y2="16.54"/>
+    </g>
+  </g>
+</svg>

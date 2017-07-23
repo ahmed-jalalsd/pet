@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 61.51 20">
+  <defs>
+    <style>.cls-1{fill:#255083;}</style>
+  </defs>
+  <title>icon_position_02</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Livello_1" data-name="Livello 1">
+      <polygon class="cls-1" points="0.35 13.54 0 13.18 3.18 10 0 6.82 0.35 6.46 3.89 10 0.35 13.54"/>
+      <polygon class="cls-1" points="52.2 10 37.51 18.59 22.82 10 37.51 1.42 52.2 10"/>
+      <polygon class="cls-1" points="30.61 20 13.51 10 30.62 0 30.88 0.42 14.49 10 30.88 19.58 30.61 20"/>
+      <polygon class="cls-1" points="44.4 20 44.13 19.58 60.53 10 44.13 0.42 44.4 0 61.51 10 44.4 20"/>
+    </g>
+  </g>
+</svg>
